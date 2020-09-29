@@ -13,8 +13,7 @@ import java.util.List;
 @SpringBootTest
 class XebiaApplicationTests {
 
-    @Autowired
-    ApplicationContext ctx;
+
 
     @Test
     public void testStartTendeuseDefaultCase() {
